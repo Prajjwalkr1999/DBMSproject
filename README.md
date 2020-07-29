@@ -3,4 +3,4 @@
 * It maintains the profile of a user and stores the ordered food in a database.
 * The technologies used in this project are SQL, React, NodeJS and express.
 
- -Project made by Prajjwal Kumar and Piyush Shandilya
+ Project made by Prajjwal Kumar and Piyush Shandilya
